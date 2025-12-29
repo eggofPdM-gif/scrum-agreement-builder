@@ -2,7 +2,7 @@
 
 A modern, interactive tool designed to help agile teams create, visualize, and export their working agreements and team charters. 
 
-![Project Poster Preview](public/window.svg) 
+![Project Poster Preview](public/window.png) 
 *(Note: Replace with actual screenshot if available)*
 
 ## 🚀 Features
